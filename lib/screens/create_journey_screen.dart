@@ -7,7 +7,7 @@ import '../widgets/custom_widgets.dart';
 
 /// Create journey screen
 class CreateJourneyScreen extends StatefulWidget {
-  const CreateJourneyScreen({super.key};
+  const CreateJourneyScreen({super.key});
 
   @override
   State<CreateJourneyScreen> createState() => _CreateJourneyScreenState();

@@ -49,7 +49,7 @@ class _JourneyFeedScreenState extends State<JourneyFeedScreen> {
                         Navigator.push(
                           context,
                           MaterialPageRoute(
-                            builder: (_) => const CreateJourneyScreen(),
+                            builder: (_) => CreateJourneyScreen(),
                           ),
                         );
                       },
